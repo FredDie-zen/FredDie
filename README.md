@@ -1,56 +1,35 @@
 # FredDie-Zen
-<h3 align="center">Just another user... or maybe not. 👀</h3>
+<h3 align="center">A passionate Cyber security Student is Sri Lanka 🙇‍♂️</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=9D00FF&center=true&vCenter=true&width=600&lines=Possibly+Just+a+Student...;Definitely+Not+a+Threat+%F0%9F%98%8F;Whispers+in+Packet+Headers...;Maker+of+Noise+in+Silent+Networks;Writing+Code+the+Dark+Can+Read" alt="Typing Header" />
 </p>
 
 
-🧠 `whoami`
-```bash
-user@root:~$ whoami
-miss.root
-```
 
-🧬 `profile.yaml`
-```yaml
-id: 0xMinzy
-role: cybersecurity_enthusiast
-location: UNKNOWN
-mood: coffee_loaded, firewall_ready
-status: always_learning
-```
+   
+    🧠 Whoami 
 
----
+ 💻 Username : FredDie-Zen       
 
-🛠️ **Things I work with (or break)**  
-```plaintext
-- Python 🐍, C++ 💣, C# 🖤
-- Bash scripting when the terminal feels lonely
-- HTML/CSS, just to leave traces online...
-- Wireshark, Nmap, Metasploit, Burp Suite – usual suspects
-- Arduino – for when silence isn’t enough
-```
 
----
+ whoami
+FredDie-zen
 
-📡 **Systems Observed**
-```markdown
-- Packet classifiers trained to sniff secrets
-- CTFs entered under shadow aliases
-- Honeypots dropped silently across virtual lands
-- Scripts that scrape, clean, and occasionally... leak
-```
 
----
 
-📍 **Coordinates?**
-You tell me.
-```bash
-traceroute github.com
-... no clear path to origin
-```
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/@asitha dhananjaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@asitha dhananjaya" height="30" width="40" /></a>
+<a href="https://fb.com/@asitha dhananjaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@asitha dhananjaya" height="30" width="40" /></a>
+</p>
+
+
+## Language Tools
+
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 ---
 
 ## 📊 Activity Snake
@@ -60,7 +39,6 @@ traceroute github.com
 </p>
 
 ---
-
 
 ---
 
@@ -80,16 +58,3 @@ traceroute github.com
 
 
 
-🕳️ **Contact?**
-```bash
-nc -lvnp 1337 # I might be listening
-```
-Or try the safer way:
-- GitHub: [Minzy-0x](https://github.com/Minzy-0x)
-- Email: Not public, but clever ones find it 😉
-
----
-
-> *"There is no root. Only shadows pretending to be light."*
-
-<!-- Sometimes the best hacks are hidden in plain text. -->
